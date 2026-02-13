@@ -1,8 +1,3 @@
-<img width="1920" height="1200" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/19b9b5d3-0a83-4338-833d-fbcb62a18b2e" />
-<img width="1920" height="1200" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/6e2e9f09-a23f-4925-8980-53dcfe5d7843" />
-<img width="1920" height="1200" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/e1a0da28-1471-4e63-8d58-7180808cbaf4" />
-<img width="1920" height="1200" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/d5b723c5-babd-4968-be8c-917cfa78840e" />
-<img width="1920" height="1200" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/58fd264a-f793-43ca-8be4-c76a9f3d62b2" />
 # 📘 Smart Student Record & Performance Management System
 
 ## 📌 Project Title
