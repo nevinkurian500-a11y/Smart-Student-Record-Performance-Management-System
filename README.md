@@ -37,5 +37,4 @@ To develop a Java-based application that manages student records and calculates 
 6. <img width="1920" height="1200" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/cde082ce-6108-4fc9-ba9e-04ed0a71eb1e" />
 <img width="1920" height="1200" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/ceb5fd22-b583-4cc9-a87d-dfa593ca2615" />
 <img width="1920" height="1200" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/4bf18344-4ffe-43f6-94c6-abaa783d62a5" />
-<img width="1920" height="1200" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/0be60dfd-83cc-4fa3-a68c-f0506e781e73" />
 
