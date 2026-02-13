@@ -34,12 +34,6 @@ To develop a Java-based application that manages student records and calculates 
 3. Open NetBeans → Create Java Application  
 4. Add `SmartStudentManagementSystem.java`  
 5. Paste code and run  
-<img width="1920" height="1008" alt="Screenshot 2026-02-09 201059" src="https://github.com/user-attachments/assets/2eb4a0b9-919a-4adf-a782-0ef98eb03b82" />
-<img width="1920" height="1008" alt="Screenshot 2026-02-09 201249" src="https://github.com/user-attachments/assets/d3ee9ef9-c50e-40c8-86fc-90eed254dca2" />
-<img width="1920" height="1008" alt="Screenshot 2026-02-09 201418" src="https://github.com/user-attachments/assets/a2ef7f13-cb59-4651-a820-75d69add30da" />
-
-
-
 
 
 
