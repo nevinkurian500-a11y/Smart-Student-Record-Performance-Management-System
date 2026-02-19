@@ -1,4 +1,4 @@
-📘 Smart Student Record Management System
+## 📘 Smart Student Record Management System
 
 A Java Desktop Application developed using Java Swing and SQLite (JDBC) to manage student records efficiently.
 
